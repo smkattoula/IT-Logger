@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "Changed network info in server 007",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-11-02T22:05:50.171Z",
-      "id": 1
-    },
-    {
       "message": "Hard drive failed in server 002",
       "attention": true,
       "tech": "John Doe",
@@ -20,6 +13,13 @@
       "tech": "Sam Smith",
       "date": "2020-11-02T22:06:22.469Z",
       "id": 3
+    },
+    {
+      "message": "wireless issue",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-11-02T23:03:00.911Z",
+      "id": 4
     }
   ],
   "techs": [
