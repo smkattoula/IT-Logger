@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Hard drive failed in server 002",
-      "attention": true,
+      "id": 2,
+      "message": "server error fixed 009",
+      "attention": false,
       "tech": "John Doe",
-      "date": "2020-11-02T22:06:06.859Z",
-      "id": 2
+      "date": "2020-11-02T23:31:35.364Z"
     },
     {
       "message": "wireless down, 001",
