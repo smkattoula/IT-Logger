@@ -29,11 +29,6 @@
       "lastName": "Doe"
     },
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
@@ -42,11 +37,6 @@
       "firstName": "Tony",
       "lastName": "Ibrahim",
       "id": 4
-    },
-    {
-      "firstName": "Jill",
-      "lastName": "Harris",
-      "id": 5
     }
   ]
 }
